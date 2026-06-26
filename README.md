@@ -5,6 +5,9 @@
 ![Version](https://shields.io.cn/badge/version-202639-orange.svg)
 
 一款专为**福建财经政法大学**学生设计的课表查询应用，提供简洁高效的课程管理体验，仅适配安卓设备。
+<img width="378" height="667" alt="屏幕截图 2026-06-26 220548" src="https://github.com/user-attachments/assets/481fe4ae-d6cc-49fd-9d00-a403191d3ba7" />
+
+
 
 ## ✨ 功能特点
 

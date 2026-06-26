@@ -1,6 +1,8 @@
 # 福建财经政法大学课表
 
 一款专为福建财经政法大学学生设计的课表查询应用，提供简洁高效的课程管理体验。
+<img width="381" height="671" alt="image" src="https://github.com/user-attachments/assets/eaa249e4-023e-4592-8a30-54e98b3e7e25" />
+
 
 ## ✨ 功能特点
 

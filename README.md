@@ -3,7 +3,6 @@
 <img width="270" height="600" alt="微信图片_20260627162002_351_13" src="https://github.com/user-attachments/assets/af72c9c1-fca3-4600-9d3e-222232ca9e80" />
 <img width="270" height="600" alt="微信图片_20260627162001_350_13" src="https://github.com/user-attachments/assets/65e7e047-1994-4792-bde6-d1b4849d9ed7" />
 <img width="270" height="600" alt="微信图片_20260627162812_353_13" src="https://github.com/user-attachments/assets/e639f789-339c-4e42-9892-64c807a29096" />
-<img width="377" height="663" alt="屏幕截图 2026-06-26 220644" src="https://github.com/user-attachments/assets/b93870b0-cdf4-4f2e-aa72-26cc437882e0" />
 
 ## ✨ 功能特点
 
@@ -105,35 +104,6 @@ plaintext
     ├── release/apk/      # APK 安装包（发布用）
     ├── cache/            # 缓存文件（已忽略）
     └── resources/        # 资源文件（已忽略）
-```
-⚙️ 配置说明
-```
-manifest.json 关键配置
-json
-{
-    "name": "大学课表",
-    "description": "福建财经政法大学课表",
-    "version": {
-        "name": "202639",
-        "code": 180
-    },
-    "android": {
-        "statusbar": { "immersed": true },    // 沉浸式状态栏
-        "navigationBar": { "hidden": true }   // 隐藏导航栏
-    }
-}
-```
-配色方案配置
-应用支持自定义课程配色，配色数据存储在 localStorage 的 course 键中：
-```
-json
-{
-    "color1": "#66ccff",
-    "color2": "#66e0c0",
-    "color3": "#ff99cc",
-    "color4": "#ccb3ff",
-    "color5": "#60A5FA"
-}
 ```
 🤝 贡献指南
 欢迎提交 Issue 和 Pull Request！

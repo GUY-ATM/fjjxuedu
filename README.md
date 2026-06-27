@@ -108,21 +108,7 @@ plaintext
 ```
 🤝 贡献指南
 欢迎提交 Issue 和 Pull Request！
-开发规范
-请遵循项目现有的代码风格
-提交代码前请确保功能正常
-代码注释使用中文
-提交规范
-feat: 添加新功能
-fix: 修复 bug
-docs: 更新文档
-style: 代码格式调整
-refactor: 重构代码
 
 📜 许可证
 本项目采用 MIT 许可证 - 查看 LICENSE 文件了解详情
-
-📞 联系方式
-项目地址：https://github.com/GUY-ATM/福建财经政法大学课表
-问题反馈：请提交 Issue
 注意：本应用仅供福建财经政法大学学生学习交流使用，请勿用于商业用途。
